@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+motocross.progressionstudios.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+motocross.progressionstudios.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_7c56818df3cefa6555aa444427d6f829	2553796b9ed8dce231a0c8f5ad4d6bf8%7C%7C1596275470%7C%7C1596271870%7C%7Cfcf7244e2702409c934cb7010efccfe2
+motocross.progressionstudios.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	e8f1e7a4011864bb6fe2ac5b7312bbbf
+
